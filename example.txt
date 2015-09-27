@@ -1,0 +1,22 @@
+s an example file you can edit.
+
+You can change or add whatever you want, then commit and push the contents for practice.
+
+There is a space for each of us to leave a message:
+
+Andrew B:
+	hello, I hope you find this helpful
+
+Andre T:
+	
+
+Mitchell
+	
+
+Matt
+	
+
+
+If all of you edit the following sentence in some way, we can maybe possibly see how conflicting changes get avoided/resolved.
+	The quick brown fox jumped.
+

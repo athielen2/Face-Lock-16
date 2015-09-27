@@ -1,4 +1,4 @@
-s an example file you can edit.
+This is an example file you can edit.
 
 You can change or add whatever you want, then commit and push the contents for practice.
 
